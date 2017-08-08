@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-trialBuilder.py
+trial_builder.py
 
 For each future subject, exports an .xlsx file containing all experimental conditions,
 trial information, and image filenames that will be used during a social 
